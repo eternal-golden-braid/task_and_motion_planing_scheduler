@@ -1,0 +1,107 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Found urdf: 2.6.1 (/opt/ros/humble/share/urdf/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/leo/IsaacSimROS/multirobot_ws_2.0/build/ur10_description
+-- Install configuration: ""
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/collision
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/collision/wrist1.stl
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/collision/base.stl
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/collision/robotiq_85_finger_tip_link.stl
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/collision/wrist2.stl
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/collision/shoulder.stl
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/collision/robotiq_85_finger_link.stl
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/collision/robotiq_85_knuckle_link.stl
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/collision/robotiq_85_base_link.stl
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/collision/upperarm.stl
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/collision/robotiq_85_inner_knuckle_link.stl
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/collision/wrist3.stl
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/collision/forearm.stl
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/visual
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/visual/upperarm.dae
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/visual/shoulder.dae
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/visual/robotiq_85_knuckle_link.dae
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/visual/robotiq_85_finger_link.dae
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/visual/forearm.dae
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/visual/base.dae
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/visual/robotiq_85_inner_knuckle_link.dae
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/visual/wrist2.dae
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/visual/wrist3.dae
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/visual/robotiq_85_base_link.dae
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/visual/robotiq_85_finger_tip_link.dae
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/visual/wrist1.dae
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/coupler.stl
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/collision
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/collision/wrist1.stl
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/collision/base.stl
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/collision/robotiq_85_finger_tip_link.stl
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/collision/wrist2.stl
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/collision/shoulder.stl
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/collision/robotiq_85_finger_link.stl
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/collision/robotiq_85_knuckle_link.stl
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/collision/robotiq_85_base_link.stl
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/collision/upperarm.stl
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/collision/robotiq_85_inner_knuckle_link.stl
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/collision/wrist3.stl
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/collision/forearm.stl
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/visual
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/visual/upperarm.dae
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/visual/shoulder.dae
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/visual/robotiq_85_knuckle_link.dae
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/visual/robotiq_85_finger_link.dae
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/visual/forearm.dae
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/visual/base.dae
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/visual/robotiq_85_inner_knuckle_link.dae
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/visual/wrist2.dae
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/visual/wrist3.dae
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/visual/robotiq_85_base_link.dae
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/visual/robotiq_85_finger_tip_link.dae
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/visual/wrist1.dae
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf/ur10_robotiq85_gripper.xacro
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf/ur10_robot.xacro
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf/ur10_joint_limited_robot.urdf.xacro
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf/ur.gazebo.xacro
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf/robotiq
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf/robotiq/robotiq_85_gripper.xacro
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf/robotiq/robotiq_85_gripper_sim_base.urdf.xacro
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf/robotiq/robotiq_85_gripper.urdf.xacro
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf/robotiq/robotiq_85_gripper.transmission.xacro
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf/ur.transmission.xacro
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf/ur10.urdf.xacro
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf/common.gazebo.xacro
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf/ur10_joint_limited_robot.urdf
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf/camera
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf/camera/camera.xacro
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf/camera/camera.gazebo
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ament_index/resource_index/package_run_dependencies/ur10_description
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ament_index/resource_index/parent_prefix_path/ur10_description
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/environment/ament_prefix_path.sh
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/environment/ament_prefix_path.dsv
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/environment/path.sh
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/environment/path.dsv
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/local_setup.bash
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/local_setup.sh
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/local_setup.zsh
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/local_setup.dsv
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/package.dsv
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ament_index/resource_index/packages/ur10_description
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/cmake/ur10_descriptionConfig.cmake
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/cmake/ur10_descriptionConfig-version.cmake
+-- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/package.xml

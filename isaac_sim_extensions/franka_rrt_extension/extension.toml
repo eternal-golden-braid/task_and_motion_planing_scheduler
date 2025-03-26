@@ -1,0 +1,13 @@
+[package]
+version = "1.0.0"
+title = "Franka RRT Extension"
+description = "Extension to connect RRT planner with ArticulationController"
+keywords = ["robot", "RRT", "Franka"]
+
+[dependencies]
+"omni.kit.uiapp" = {}
+"omni.graph" = {}
+"omni.isaac.core" = {}
+
+[[python.module]]
+name = "franka_rrt_extension"

@@ -1,0 +1,99 @@
+[0.006s] Invoking command in '/home/leo/IsaacSimROS/multirobot_ws_2.0/build/franka_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/leo/IsaacSimROS/multirobot_ws_2.0/src/franka/franka_description -DCMAKE_INSTALL_PREFIX=/home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description
+[0.235s] -- The C compiler identification is GNU 11.4.0
+[0.396s] -- The CXX compiler identification is GNU 11.4.0
+[0.408s] -- Detecting C compiler ABI info
+[0.492s] -- Detecting C compiler ABI info - done
+[0.496s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.497s] -- Detecting C compile features
+[0.498s] -- Detecting C compile features - done
+[0.502s] -- Detecting CXX compiler ABI info
+[0.587s] -- Detecting CXX compiler ABI info - done
+[0.590s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.590s] -- Detecting CXX compile features
+[0.591s] -- Detecting CXX compile features - done
+[0.595s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.708s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.787s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.260s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.266s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.267s] -- Added test 'lint_cmake' to check CMake code style
+[1.267s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.268s] -- Added test 'xmllint' to check XML markup files
+[1.269s] -- Configuring done
+[1.270s] -- Generating done
+[1.271s] -- Build files have been written to: /home/leo/IsaacSimROS/multirobot_ws_2.0/build/franka_description
+[1.273s] Invoked command in '/home/leo/IsaacSimROS/multirobot_ws_2.0/build/franka_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/leo/IsaacSimROS/multirobot_ws_2.0/src/franka/franka_description -DCMAKE_INSTALL_PREFIX=/home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description
+[1.274s] Invoking command in '/home/leo/IsaacSimROS/multirobot_ws_2.0/build/franka_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/leo/IsaacSimROS/multirobot_ws_2.0/build/franka_description -- -j32 -l32
+[1.302s] Invoked command in '/home/leo/IsaacSimROS/multirobot_ws_2.0/build/franka_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/leo/IsaacSimROS/multirobot_ws_2.0/build/franka_description -- -j32 -l32
+[1.303s] Invoking command in '/home/leo/IsaacSimROS/multirobot_ws_2.0/build/franka_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/leo/IsaacSimROS/multirobot_ws_2.0/build/franka_description
+[1.309s] -- Install configuration: ""
+[1.309s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//launch
+[1.309s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//launch/visualize_franka.launch.py
+[1.310s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//robots
+[1.310s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//robots/panda
+[1.310s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//robots/panda/panda_r1.urdf
+[1.311s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//robots/panda/panda.urdf.xacro
+[1.312s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//robots/panda/joint_limits.yaml
+[1.312s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//robots/panda_arm.ros2_control.xacro
+[1.312s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//robots/fr3
+[1.312s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//robots/fr3/fr3.urdf.xacro
+[1.312s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//robots/fr3/joint_limits.yaml
+[1.313s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//robots/panda_arm.xacro
+[1.313s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//robots/panda_ros2.urdf
+[1.314s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//robots/common
+[1.314s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//robots/common/inertial.yaml
+[1.314s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//robots/common/franka_hand.xacro
+[1.315s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//robots/common/franka_robot.xacro
+[1.315s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//robots/common/franka_arm.xacro
+[1.315s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//robots/common/hand.urdf.xacro
+[1.316s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//robots/common/utils.xacro
+[1.316s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//robots/hand.xacro
+[1.316s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//robots/panda_arm.urdf.xacro
+[1.317s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//robots/hand.urdf.xacro
+[1.317s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//robots/panda_r2.urdf
+[1.317s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//robots/dual_panda
+[1.318s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//robots/dual_panda/dual_panda_example.urdf.xacro
+[1.318s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//meshes
+[1.318s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//meshes/collision
+[1.318s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//meshes/collision/link4.stl
+[1.318s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//meshes/collision/link6.stl
+[1.319s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//meshes/collision/link7.stl
+[1.319s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//meshes/collision/link0.stl
+[1.320s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//meshes/collision/link5.stl
+[1.321s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//meshes/collision/link1.stl
+[1.321s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//meshes/collision/link3.stl
+[1.322s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//meshes/collision/link2.stl
+[1.322s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//meshes/collision/hand.stl
+[1.323s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//meshes/visual
+[1.323s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//meshes/visual/link7.dae
+[1.327s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//meshes/visual/hand.dae
+[1.329s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//meshes/visual/finger.dae
+[1.330s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//meshes/visual/link4.dae
+[1.334s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//meshes/visual/link2.dae
+[1.338s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//meshes/visual/link0.dae
+[1.344s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//meshes/visual/link1.dae
+[1.348s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//meshes/visual/link5.dae
+[1.353s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//meshes/visual/link6.dae
+[1.359s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//meshes/visual/link3.dae
+[1.363s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//rviz
+[1.363s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//rviz/visualize_franka.rviz
+[1.364s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//urdf
+[1.364s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//urdf/panda_r1.urdf
+[1.365s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//urdf/panda.urdf.xacro
+[1.365s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description//urdf/joint_limits.yaml
+[1.366s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/ament_index/resource_index/package_run_dependencies/franka_description
+[1.366s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/ament_index/resource_index/parent_prefix_path/franka_description
+[1.366s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description/environment/ament_prefix_path.sh
+[1.366s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description/environment/ament_prefix_path.dsv
+[1.366s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description/environment/path.sh
+[1.366s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description/environment/path.dsv
+[1.366s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description/local_setup.bash
+[1.366s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description/local_setup.sh
+[1.367s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description/local_setup.zsh
+[1.367s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description/local_setup.dsv
+[1.367s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description/package.dsv
+[1.367s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/ament_index/resource_index/packages/franka_description
+[1.367s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description/cmake/franka_descriptionConfig.cmake
+[1.367s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description/cmake/franka_descriptionConfig-version.cmake
+[1.367s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/franka_description/share/franka_description/package.xml
+[1.368s] Invoked command in '/home/leo/IsaacSimROS/multirobot_ws_2.0/build/franka_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/leo/IsaacSimROS/multirobot_ws_2.0/build/franka_description

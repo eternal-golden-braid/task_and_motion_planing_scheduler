@@ -1,0 +1,113 @@
+[0.004s] Invoking command in '/home/leo/IsaacSimROS/multirobot_ws_2.0/build/ur10_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/leo/IsaacSimROS/multirobot_ws_2.0/src/ur10/ur10_description -DCMAKE_INSTALL_PREFIX=/home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description
+[0.232s] -- The C compiler identification is GNU 11.4.0
+[0.393s] -- The CXX compiler identification is GNU 11.4.0
+[0.405s] -- Detecting C compiler ABI info
+[0.489s] -- Detecting C compiler ABI info - done
+[0.496s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.496s] -- Detecting C compile features
+[0.496s] -- Detecting C compile features - done
+[0.500s] -- Detecting CXX compiler ABI info
+[0.585s] -- Detecting CXX compiler ABI info - done
+[0.591s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.591s] -- Detecting CXX compile features
+[0.591s] -- Detecting CXX compile features - done
+[0.593s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.713s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.785s] -- Found urdf: 2.6.1 (/opt/ros/humble/share/urdf/cmake)
+[0.870s] -- Configuring done
+[0.871s] -- Generating done
+[0.872s] -- Build files have been written to: /home/leo/IsaacSimROS/multirobot_ws_2.0/build/ur10_description
+[0.875s] Invoked command in '/home/leo/IsaacSimROS/multirobot_ws_2.0/build/ur10_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/leo/IsaacSimROS/multirobot_ws_2.0/src/ur10/ur10_description -DCMAKE_INSTALL_PREFIX=/home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description
+[0.876s] Invoking command in '/home/leo/IsaacSimROS/multirobot_ws_2.0/build/ur10_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/leo/IsaacSimROS/multirobot_ws_2.0/build/ur10_description -- -j32 -l32
+[0.898s] Invoked command in '/home/leo/IsaacSimROS/multirobot_ws_2.0/build/ur10_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/leo/IsaacSimROS/multirobot_ws_2.0/build/ur10_description -- -j32 -l32
+[0.902s] Invoking command in '/home/leo/IsaacSimROS/multirobot_ws_2.0/build/ur10_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/leo/IsaacSimROS/multirobot_ws_2.0/build/ur10_description
+[0.905s] -- Install configuration: ""
+[0.905s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes
+[0.905s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5
+[0.905s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/collision
+[0.906s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/collision/wrist1.stl
+[0.907s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/collision/base.stl
+[0.908s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/collision/robotiq_85_finger_tip_link.stl
+[0.910s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/collision/wrist2.stl
+[0.911s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/collision/shoulder.stl
+[0.912s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/collision/robotiq_85_finger_link.stl
+[0.914s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/collision/robotiq_85_knuckle_link.stl
+[0.915s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/collision/robotiq_85_base_link.stl
+[0.924s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/collision/upperarm.stl
+[0.925s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/collision/robotiq_85_inner_knuckle_link.stl
+[0.927s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/collision/wrist3.stl
+[0.928s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/collision/forearm.stl
+[0.930s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/visual
+[0.931s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/visual/upperarm.dae
+[0.938s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/visual/shoulder.dae
+[0.943s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/visual/robotiq_85_knuckle_link.dae
+[0.944s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/visual/robotiq_85_finger_link.dae
+[0.946s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/visual/forearm.dae
+[0.953s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/visual/base.dae
+[0.953s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/visual/robotiq_85_inner_knuckle_link.dae
+[0.956s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/visual/wrist2.dae
+[0.962s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/visual/wrist3.dae
+[0.963s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/visual/robotiq_85_base_link.dae
+[0.977s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/visual/robotiq_85_finger_tip_link.dae
+[0.979s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur5/visual/wrist1.dae
+[0.983s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/coupler.stl
+[0.984s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10
+[0.985s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/collision
+[0.985s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/collision/wrist1.stl
+[0.986s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/collision/base.stl
+[0.987s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/collision/robotiq_85_finger_tip_link.stl
+[0.989s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/collision/wrist2.stl
+[0.990s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/collision/shoulder.stl
+[0.991s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/collision/robotiq_85_finger_link.stl
+[0.993s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/collision/robotiq_85_knuckle_link.stl
+[0.994s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/collision/robotiq_85_base_link.stl
+[1.001s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/collision/upperarm.stl
+[1.002s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/collision/robotiq_85_inner_knuckle_link.stl
+[1.004s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/collision/wrist3.stl
+[1.005s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/collision/forearm.stl
+[1.006s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/visual
+[1.007s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/visual/upperarm.dae
+[1.017s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/visual/shoulder.dae
+[1.023s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/visual/robotiq_85_knuckle_link.dae
+[1.025s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/visual/robotiq_85_finger_link.dae
+[1.027s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/visual/forearm.dae
+[1.035s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/visual/base.dae
+[1.036s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/visual/robotiq_85_inner_knuckle_link.dae
+[1.039s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/visual/wrist2.dae
+[1.047s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/visual/wrist3.dae
+[1.049s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/visual/robotiq_85_base_link.dae
+[1.058s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/visual/robotiq_85_finger_tip_link.dae
+[1.060s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/meshes/ur10/visual/wrist1.dae
+[1.066s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf
+[1.066s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf/ur10_robotiq85_gripper.xacro
+[1.066s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf/ur10_robot.xacro
+[1.066s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf/ur10_joint_limited_robot.urdf.xacro
+[1.067s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf/ur.gazebo.xacro
+[1.067s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf/robotiq
+[1.067s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf/robotiq/robotiq_85_gripper.xacro
+[1.068s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf/robotiq/robotiq_85_gripper_sim_base.urdf.xacro
+[1.068s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf/robotiq/robotiq_85_gripper.urdf.xacro
+[1.069s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf/robotiq/robotiq_85_gripper.transmission.xacro
+[1.069s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf/ur.transmission.xacro
+[1.069s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf/ur10.urdf.xacro
+[1.070s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf/common.gazebo.xacro
+[1.070s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf/ur10_joint_limited_robot.urdf
+[1.071s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf/camera
+[1.071s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf/camera/camera.xacro
+[1.071s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/urdf/camera/camera.gazebo
+[1.072s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ament_index/resource_index/package_run_dependencies/ur10_description
+[1.072s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ament_index/resource_index/parent_prefix_path/ur10_description
+[1.072s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/environment/ament_prefix_path.sh
+[1.072s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/environment/ament_prefix_path.dsv
+[1.072s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/environment/path.sh
+[1.072s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/environment/path.dsv
+[1.073s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/local_setup.bash
+[1.073s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/local_setup.sh
+[1.073s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/local_setup.zsh
+[1.073s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/local_setup.dsv
+[1.073s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/package.dsv
+[1.073s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ament_index/resource_index/packages/ur10_description
+[1.073s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/cmake/ur10_descriptionConfig.cmake
+[1.073s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/cmake/ur10_descriptionConfig-version.cmake
+[1.073s] -- Installing: /home/leo/IsaacSimROS/multirobot_ws_2.0/install/ur10_description/share/ur10_description/package.xml
+[1.075s] Invoked command in '/home/leo/IsaacSimROS/multirobot_ws_2.0/build/ur10_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/leo/IsaacSimROS/multirobot_ws_2.0/build/ur10_description

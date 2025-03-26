@@ -1,0 +1,10 @@
+from isaacsim.examples.interactive.path_planning.path_planning import PathPlanningFranka
+from isaacsim.examples.interactive.path_planning.path_planning_controller import PathPlannerControllerFranka
+from isaacsim.examples.interactive.path_planning.path_planning_extension import PathPlanningExtensionFranka
+from isaacsim.examples.interactive.path_planning.path_planning_task import PathPlanningTaskFranka
+
+from isaacsim.examples.interactive.path_planning.path_planning import PathPlanningUR10
+from isaacsim.examples.interactive.path_planning.path_planning_controller import PathPlannerControllerUR10
+from isaacsim.examples.interactive.path_planning.path_planning_extension import PathPlanningExtensionUR10
+from isaacsim.examples.interactive.path_planning.path_planning_task import PathPlanningTaskUR10
+
